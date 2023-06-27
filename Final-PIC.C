@@ -125,7 +125,7 @@ void search()
 	      printf("*==============================================================================*     \n");
 	      printf(" \n            |              1   :  GLOBAL SEARCH                         |       ");
 	      printf(" \n            |              2   :  Search by SERIAL NO                   |       ");
-	      printf(" \n            |              3   :  Search by ROOM TYPE                   |       ");
+	      print(" \n            |              3   :  Search by ROOM TYPE                   |       ");
 	      printf(" \n            |              4   :  Search by ROOM NUMBER                 |       ");
 	      printf(" \n            |              5   :  Search by CLIENT NAME                 |       ");
 	      printf(" \n            |              6   :  Exit                                  |       ");
